@@ -1,0 +1,37 @@
+body, h1 { 
+    font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 33px;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    color: #FF6347;
+    font-weight: bold;
+    font-size: 20px;
+ }
+
+ 
+.crystal {
+	width: 100px;
+	height: 100px;
+}
+
+#images {
+    border: 10px solid transparent;
+    padding: 15px;
+    border: 10px dotted black;
+    padding: 35px;
+    background: yellow;
+    background-clip: padding-box;
+}
+
+
+#numberText {
+    color: #2E8B57;
+    width: 25%;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
